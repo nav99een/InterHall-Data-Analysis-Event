@@ -1,0 +1,2 @@
+# InterHall-Data-Analysis-Event
+Every year IIT Kharagpur organises Technology General Championships. The motive behind organizing this general Championships is to create a healthy competition among students and to build and develop their skills and to provide basic knowledge about how to solve problems when you will start working in a organisation. So, IIT Kharagpur also organizes Inter Hall Data Analytics Event Under the Strategy Cup.
